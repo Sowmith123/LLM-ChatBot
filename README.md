@@ -103,8 +103,6 @@ Chat History Stored
 
 ## 📂 Project Structure
 
-```
-
 llm-chatbot/
 │
 ├── app.py
